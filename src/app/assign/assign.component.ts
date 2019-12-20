@@ -10,6 +10,9 @@ export class AssignComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+
+    
   }
 
 }
